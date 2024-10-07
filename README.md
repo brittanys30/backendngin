@@ -1,6 +1,5 @@
 # Nginx Project
 
-![Nginx Logo](https://nginx.org/images/nginx_logo.png)
 
 ## Overview
 
